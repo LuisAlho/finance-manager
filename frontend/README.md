@@ -33,3 +33,30 @@ npm run build
 ```sh
 npm run test:unit
 ```
+
+
+## Docker Commands
+
+### Show docker containers running
+
+```sh
+sudo docker ps
+```
+
+### List Containers
+
+```sh
+sudo docker container ls -a
+```
+
+### List Images
+
+```sh
+sudo docker images ls -a
+```
+
+### Remove Containers
+
+```sh
+sudo docker container ls -l
+```
